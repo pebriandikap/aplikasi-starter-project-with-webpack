@@ -1,0 +1,6 @@
+# Aplikasi ini tidak memerlukan API key eksternal.
+# Semua data menggunakan Dicoding Story API yang tidak membutuhkan MAP_SERVICE_API_KEY.
+# Peta menggunakan Leaflet + OpenStreetMap (tanpa kunci API).
+
+APP_URL=<url_aplikasi>
+MAP_SERVICE_API_KEY=<api_key>
